@@ -20,12 +20,15 @@ _________________
 
 ##### Exportação dos dados em formato GeoJSON
 
+[**Dados**](https://github.com/danielfbrg/Planta_Iff_Leaflet/tree/master/data/geojson "Dados GeoJSON")
+
 ![](https://raw.githubusercontent.com/danielfbrg/Planta_Iff_Leaflet/master/data/img/geojson.png)
 
 <br>
 
 
 ##### Preparação dos dados Raster
+[**Dados**](https://github.com/danielfbrg/Planta_Iff_Leaflet/blob/master/data/img/image.png "Dados Raster")
 
 ![](https://raw.githubusercontent.com/danielfbrg/Planta_Iff_Leaflet/master/data/img/image.png)
 
