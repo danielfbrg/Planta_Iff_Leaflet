@@ -18,7 +18,7 @@ _________________
 <br>
 
 
-##### Exportarção dos dados em formato GeoJSON
+##### Exportação dos dados em formato GeoJSON
 
 ![](https://raw.githubusercontent.com/danielfbrg/Planta_Iff_Leaflet/master/data/img/geojson.png)
 
