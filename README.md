@@ -1,10 +1,10 @@
-## Planta Baixa Interativa IFF Campus Macaé
+## Planta Interativa IFF Campus Macaé
 
-Aplicação exibindo planta baixa interativa do Instituto Federal Fluminense - Campus Macaé.
+Aplicação exibindo informações do Instituto Federal Fluminense - Campus Macaé.
 
 O **objetivo** é desenvolver ferramenta para auxílio nas distintas ações administrativas do Instituto.
 
-Possibilita acesso aos diversos pavimentos, salas e laboratórios  existentes no Campus. Incluindo informações sobre ocupação, horário de funcionamento e informações de contato dos setores responsáveis.
+Apresenta os diversos pavimentos, salas e laboratórios  existentes no Campus. Obtendo informações sobre ocupação, horário de funcionamento e contato dos setores responsáveis.
 
 <br>
 
