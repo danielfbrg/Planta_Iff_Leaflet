@@ -4,7 +4,7 @@ Aplicação exibindo informações do Instituto Federal Fluminense - Campus Maca
 
 O **objetivo** é desenvolver ferramenta para auxílio nas distintas ações administrativas do Instituto.
 
-Apresenta os diversos pavimentos, salas e laboratórios  existentes no Campus. Obtendo informações sobre ocupação, horário de funcionamento e contato dos setores responsáveis.
+Apresenta os diversos pavimentos, salas e laboratórios  existentes no Campus. Possibilita obter informações sobre ocupação, horário de funcionamento e contato dos setores responsáveis.
 
 <br>
 
